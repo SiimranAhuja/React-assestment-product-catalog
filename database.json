@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "productName": "Nike Jordan",
+            "price": "12500",
+            "category": "Accessories"
+        },
+        {
+            "id": "2",
+            "productName": "Peanut Butter",
+            "price": "125",
+            "category": "Food"
+        },
+        {
+            "id": "3",
+            "productName": "Blender",
+            "price": "990",
+            "category": "Kitchen Appliances"
+        },
+        {
+            "id": "4",
+            "productName": "Boat Headset",
+            "price": "1500",
+            "category": "Gadgets"
+        },
+        {
+            "id": "5",
+            "productName": "Bananan Chips",
+            "price": "90",
+            "category": "Food"
+        },
+        {
+            "id": "6",
+            "productName": "Iphone Charger",
+            "price": "2000",
+            "category": "Gadgets"
+        },
+        {
+            "id": "7",
+            "productName": "Moisturizer",
+            "price": "150",
+            "category": "Beauty"
+        },
+        {
+            "id": "8",
+            "productName": "Olive Oil",
+            "price": "350",
+            "category": "Food"
+        },
+        {
+            "id": "9",
+            "productName": " Robot Vaccum Cleaner",
+            "price": "29000",
+            "category": "Gadgets"
+        },
+        {
+            "id": "10",
+            "productName": "Gaming Laptop",
+            "price": "79000",
+            "category": "Gadgets"
+        },
+        {
+            "id": "11",
+            "productName": "Milk Frother",
+            "price": "1250",
+            "category": "Kitchen Appliances"
+        },
+        {
+            "id": "12",
+            "productName": "1 kg Tomato",
+            "price": "89",
+            "category": "Food"
+        },
+        {
+            "id": "13",
+            "productName": "Dyson Airwrap",
+            "price": "49990",
+            "category": "Beauty"
+        },
+        {
+            "id": "14",
+            "productName": "Portable Speaker",
+            "price": "15000",
+            "category": "Gadgets"
+        },
+        {
+            "id": "15",
+            "productName": "Cornflakes",
+            "price": "290",
+            "category": "Food"
+        },
+        {
+            "id": "16",
+            "productName": "Iphone",
+            "price": "62000",
+            "category": "Gadgets"
+        },
+        {
+            "id": "17",
+            "productName": "Mascara",
+            "price": "450",
+            "category": "Beauty"
+        },
+        {
+            "id": "18",
+            "productName": "Baking Powder",
+            "price": "150",
+            "category": "Food"
+        },
+        {
+            "id": "19",
+            "productName": "Air Purifier",
+            "price": "29000",
+            "category": "Gadgets"
+        },
+        {
+            "id": "20",
+            "productName": "Dinning Table",
+            "price": "39000",
+            "category": "Accessories"
+        }
+    ]
+}
